@@ -29,8 +29,7 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-<<<<<<< HEAD
-=======
-=======
 
-> > > > > > > 6c5cdad92840ab9166002312e98653c0b06776cf
+### 细节描述可参考博客
+
+博客地址：https://blog.csdn.net/ddx2019/article/details/111195706
